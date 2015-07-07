@@ -4,7 +4,8 @@
 //
 //  Created by Jiamao Zheng on 7/7/15.
 //  Copyright (c) 2015 Emerge Media. All rights reserved.
-//
+//reference: http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial#comments, 
+//reference: http://www.raywenderlich.com/50317/beginning-auto-layout-tutorial-in-ios-7-part-1
 
 import UIKit
 
